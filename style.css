@@ -1,0 +1,11 @@
+.container {
+    border: 5px seagreen dotted;
+    display: flex;
+    gap: 1em;
+}
+
+.square {
+    width: 2em;
+    height: 2em;
+    background-color: blue;
+}
